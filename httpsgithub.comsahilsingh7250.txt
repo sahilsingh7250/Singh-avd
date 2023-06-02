@@ -1,0 +1,11 @@
+organization link----- https://github.com/sahilsingh7250
+
+Repo:
+https--- https://github.com/sahilsingh7250/Singh-avd.git
+ssh---- git@github.com:sahilsingh7250/Singh-avd.git
+
+team:
+url---- https://github.com/orgs/sahilsingh7250/teams/sahil75195-dev
+
+personal access token(pat)--- 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
+
