@@ -4,3 +4,6 @@ grapes
 banana
 pineapple
 chicku
+papaya
+watermillon
+kiwi
