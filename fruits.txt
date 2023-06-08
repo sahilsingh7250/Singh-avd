@@ -7,3 +7,6 @@ chicku
 papaya
 watermillon
 kiwi
+
+some fruits are rotten
+
